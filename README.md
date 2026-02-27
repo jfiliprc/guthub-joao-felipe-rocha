@@ -13,6 +13,9 @@ Atividade Prática Github Web
 <img width="1290" height="679" alt="image" src="https://github.com/user-attachments/assets/7da89edf-48fa-4bbd-8efe-b8c6a618fed1" />
 <hr>
 <img width="1578" height="337" alt="image" src="https://github.com/user-attachments/assets/ef691500-2634-45a0-bd6e-8909c4a70dcd" />
+<hr>
+<img width="1139" height="558" alt="image" src="https://github.com/user-attachments/assets/2f633665-63d6-45c7-a6a8-4d8fc58eb673" />
+
 
 
 
